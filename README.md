@@ -12,7 +12,7 @@ SOBRE VueJS:
 * Se usa AXIOS para las requests
 
 CÓMO COMENZAR:
-* Instalacon de VueJS: https://cli.vuejs.org/guide/creating-a-project.html#vue-create
+* Instalacion de VueJS: https://cli.vuejs.org/guide/creating-a-project.html#vue-create
 * Instalar dependencias especificadas en package.JSON
 * API usada: https://chilealerta.com/api/query/?user=demo&select=ultimos_sismos (recomiendo crear un usuario)
 
